@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 st.title("Olá, Antônio!")
 st.markdown('**Segue em anexo algumas das minhas especificações:**')
 
-st.write(" - Sou formado pela Universidade Estácio de Sá em Administração e Gestão Financeira.")
+st.write(" - Meu nome é Arthur Reis, tenho 25 anos e sou formado pela Universidade Estácio de Sá em Administração e Gestão Financeira.")
 st.write(" - Possuo fluência em Português e Inglês.")
 st.write(" - Nível intermediário em análise de dados em python e desenvolvimento web.")
 st.text("")
